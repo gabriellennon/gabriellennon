@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working in the Wiz Soluções how to Front-end Developer
 - 🌱 I’m currently learning Angular and React
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: Linkedin:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellennon-79a639169/)](https://www.linkedin.com/in/gabriellennon-79a639169/)
