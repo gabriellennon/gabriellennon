@@ -1,10 +1,10 @@
 ### Hello! I'm Gabriel Lennon 👋
 
 - 🔭 I’m currently working in the Wiz Soluções how to Front-end Developer
-- 🌱 I’m currently learning Angular and React
+- 🌱 I have experience with Angular, React, React Native and Vue JS
 - 📫 How to reach me: Linkedin:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellennon-79a639169/)](https://www.linkedin.com/in/gabriellennon-79a639169/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellennon/)](https://www.linkedin.com/in/gabriellennon/)
 
 ### Technologies & Tools
 
