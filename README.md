@@ -1,6 +1,6 @@
 ### Hello! I'm Gabriel Lennon 👋
 
-- 🔭 I’m currently working in the Wiz Soluções how to Front-end Developer
+- 🔭 I’m currently working in the iFood how to Software Engineer
 - 🌱 I have experience with Angular, React, React Native and Vue JS
 - 📫 How to reach me: Linkedin:
 
