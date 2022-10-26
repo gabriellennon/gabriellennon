@@ -1,7 +1,7 @@
 ## Hello! I'm Gabriel Lennon 👋
 
 - 🔭 I’m currently working at iFood how to Software Engineer
-- 🌱 I have experience with Angular, React, React Native and Vue JS
+- 🌱 I have experience with Angular, React, React Native, NextJs and Vue JS
 
 <div align="center">
   <a href="https://github.com/gabriellennon">
